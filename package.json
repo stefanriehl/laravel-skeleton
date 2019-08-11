@@ -15,11 +15,13 @@
         "laravel-mix": "^4.0.7",
         "laravel-mix-purgecss": "^4.1.0",
         "lodash": "^4.17.13",
+        "mix-tailwindcss": "^1.1.0",
         "popper.js": "^1.12",
         "resolve-url-loader": "^2.3.1",
+        "tailwindcss": "^1.1.1",
         "vue-template-compiler": "^2.6.10"
     },
     "dependencies": {
-        "tailwindcss": "^1.1.0"
+        "postcss-import": "^12.0.1"
     }
 }
