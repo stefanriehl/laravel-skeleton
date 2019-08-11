@@ -1,9 +1,7 @@
 # Skeleton includes
 
-- 
-
-- TailwindCss 1.0.5 [https://tailwindcss.com] with defaults
-- Livewire 0.2.x [https://livewire-framework.com]
+- TailwindCss 1.1.0 [https://tailwindcss.com] with defaults
+- Livewire 0.2.* [https://livewire-framework.com]
 - Laravel PurgeCss [https://github.com/spatie/laravel-mix-purgecss]
 - BladeSVG [https://github.com/adamwathan/blade-svg]
 - Jenssegers Date package
@@ -12,6 +10,7 @@
 - PHP Insights [https://github.com/nunomaduro/phpinsights]
 - customized webpack.mix.js
 - customized package.json
+- and some more...
 
 ## Installation
 
