@@ -9,11 +9,11 @@
     "license": "MIT",
     "require": {
         "php": "^7.2",
-        "calebporzio/livewire": "0.2.*",
+        "livewire/livewire": "0.3.*",
         "doctrine/dbal": "^2.9",
         "fideloper/proxy": "^4.0",
         "jenssegers/date": "^3.5",
-        "laravel/framework": "5.8.*",
+        "laravel/framework": "6.1.*",
         "laravel/tinker": "^1.0",
         "nothingworks/blade-svg": "^0.3.1",
         "symfony/yaml": "^4.3"
@@ -64,7 +64,7 @@
         ],
         "check-security": [
             "vendor/bin/security-checker security:check"
-        ],        
+        ],
         "post-autoload-dump": [
             "Illuminate\\Foundation\\ComposerScripts::postAutoloadDump",
             "@php artisan package:discover --ansi"
